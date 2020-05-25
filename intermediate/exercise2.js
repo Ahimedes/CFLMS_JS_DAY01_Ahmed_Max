@@ -1,0 +1,1 @@
+document.write( "mango \n cherries \n kiwi \n grapes \n pear \n peach \n orange \n lemon" );
